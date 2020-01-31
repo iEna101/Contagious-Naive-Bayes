@@ -18,7 +18,7 @@ This packages thus allows the user to make use of contagious naive Bayes as an a
 
 ## Getting Started:
 
-The package is available online for use within Python 3 enviroments.
+The package is available [online](https://pypi.org/project/Contagious-Naive-Bayes/1.0.2/) for use within Python 3 enviroments.
 
 The installation can be performed through the use of a standard 'pip' install command, as provided below: 
 
