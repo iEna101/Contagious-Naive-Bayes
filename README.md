@@ -40,7 +40,7 @@ The package has several dependencies, namely:
 
 The function is named **CNB**.
 
-The function can take 6 possible arguments, two of which are required, and the remaining 3 being optional. 
+The function can take 6 possible arguments, two of which are required, and the remaining 4 being optional. 
 
 ### The required arguments are: 
 
