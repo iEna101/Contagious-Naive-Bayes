@@ -16,6 +16,8 @@ a Poisson likelihood function.
 
 This packages thus allows the user to make use of contagious naive Bayes as an alternative to the readily available techniques to perform binary text classification.  
 
+It is important to note that when making use of the package, the package itself contains built-in preprocessing. The details of the preprocessing performed can be found in the following [script](https://github.com/iEna101/Contagious-Naive-Bayes/blob/master/Preprocessing.ipynb)
+
 ## Getting Started:
 
 The package is available [online](https://pypi.org/project/Contagious-Naive-Bayes/1.0.2/) for use within Python 3 enviroments.
@@ -66,6 +68,8 @@ The function provides the output in two components, firstly it provides a table 
 Secondly, the function provides several performance metrics, the metrics utilized are accuracy, precision, recall and the F1 score. 
 
 ## Example Usage:
+
+A more comprehensive [tutorial](https://github.com/iEna101/Contagious-Naive-Bayes/blob/master/Tutorial.ipynb) is also available.  
 
 ### Installation;
 
