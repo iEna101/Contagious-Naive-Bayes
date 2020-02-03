@@ -16,7 +16,7 @@ a Poisson likelihood function.
 
 This packages thus allows the user to make use of contagious naive Bayes as an alternative to the readily available techniques to perform binary text classification.  
 
-It is important to note that when making use of the package, the package itself contains built-in preprocessing. The details of the preprocessing performed can be found in the following [script](https://github.com/iEna101/Contagious-Naive-Bayes/blob/master/Preprocessing.ipynb)
+It is important to note that when making use of the package, the package itself contains built-in preprocessing. The details of the preprocessing performed can be found in the following [script](https://github.com/iEna101/Contagious-Naive-Bayes/blob/master/Preprocessing.ipynb).
 
 ## Getting Started:
 
