@@ -135,6 +135,7 @@ University of Pretoria
 ![Tuks Logo](/Images/UPlogohighres.jpg)
 
 Center for Artifcial Intelligence Research (CAIR)
+![CAIR Logo].(/Images/cair_logo.png)
 
 
 
