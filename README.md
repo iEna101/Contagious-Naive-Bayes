@@ -134,5 +134,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 University of Pretoria 
 ![Tuks Logo](/Images/UPlogohighres.jpg)
 
-Center for Artifcial Intelligence Research (CAIR)
+Center for Artifcial Intelligence Research(CAIR)
+
 ![CAIR Logo](/Images/cair_logo.png)
