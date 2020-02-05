@@ -121,7 +121,7 @@ Alta de Waal
 
 Luandrie Potgieter
 
-Ricardo Marques
+[Ricardo Marques](https://github.com/RicSalgado)
 
 
 ## License:
@@ -135,16 +135,4 @@ University of Pretoria
 ![Tuks Logo](/Images/UPlogohighres.jpg)
 
 Center for Artifcial Intelligence Research (CAIR)
-![CAIR Logo].(/Images/cair_logo.png)
-
-
-
-
-
-
-
-
-
-
-
-
+![CAIR Logo](/Images/cair_logo.png)
