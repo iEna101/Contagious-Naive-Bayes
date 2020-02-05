@@ -136,4 +136,4 @@ University of Pretoria
 
 Center for Artifcial Intelligence Research(CAIR)
 
-![CAIR Logo](/Images/cair-logo.png)
+![CAIR Logo](/Images/cair-logo.png=250x250)
