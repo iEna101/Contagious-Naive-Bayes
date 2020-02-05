@@ -117,7 +117,7 @@ The output obtained appears as follows:
 
 ## Co-Authors:
 
-Alta de Waal
+[Alta de Waal](https://github.com/altadewaal)
 
 Luandrie Potgieter
 
